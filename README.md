@@ -1,5 +1,6 @@
 This project will create an infrastructure on AWS with use of Terraform.
-Requirements
+
+Requirements:
 - an EC2 (Windows 2019 Base server)
 - a Lambda fucntion which will turn on the server
 - a Lambda fucntion which will shut down the server
